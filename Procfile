@@ -1,1 +1,0 @@
-web: node ./React\ Files/src/index.jsx
